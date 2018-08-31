@@ -102,18 +102,11 @@
   ],
   "volunteer": [
     {
-      "organization": "Hawaii Cyber Games",
-      "position": "Student mentor",
-      "startDate": "2017-08-01",
-      "endDate": "2017-08-01",
-      "summary": "Mentored highscool students during a CTF challenge."
-    },
-    {
       "organization": "UHM Grey Hats",
       "website": "greyhats.club/",
-      "position": "Secretary",
+      "position": "Board Member",
       "startDate": "2017",
-      "endDate": "2018",
+      "endDate": "Present",
       "summary": "A Cyber Security club at UH Manoa.",
       "highlights": []
     },
@@ -125,6 +118,13 @@
       "website": "acmanoa.github.io",
       "summary": "",
       "highlights": []
+    },
+    {
+      "organization": "Hawaii Cyber Games",
+      "position": "Student mentor",
+      "startDate": "2017-08-01",
+      "endDate": "2017-08-01",
+      "summary": "Mentored highscool students during a CTF challenge."
     }
   ],
   "references": [
