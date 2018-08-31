@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/feather.jpg
 title: Feather
 permalink: projects/feather
 # All dates must be YYYY-MM-DD format!
@@ -11,8 +11,6 @@ labels:
   - Python
 summary: A Chrome browser extension my team developed during the AngelHack 2017 Competition.
 ---
-
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
 Feather is a chrome browser extension that I helped create as a team during the AngelHack 2017 competition. This project helped me learn how to manage time effectively, how to design and create a browser extention, and the difficulties of creating a secure code executor. 
 
