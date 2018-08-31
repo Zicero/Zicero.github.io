@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/milleniumfalcon.jpg
 title: Pong Game
 permalink: projects/pong-game
 # All dates must be YYYY-MM-DD format!
@@ -13,10 +13,8 @@ summary: A simple Star Wars themed Pong replica.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/saber-blue.png">
+  <img class="ui image" src="../images/probe.png">
 </div>
 
 In ICS 111, this Pong project was one of my first experiences making a simple game in Java. The goal of the game is to keep the ball (the probe) above the paddle (lightsaber) for as long as possible. The score is based on how many times you hit the ball, but the difficulty slightly increases each time that happens.
