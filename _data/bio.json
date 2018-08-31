@@ -107,7 +107,25 @@
       "startDate": "2017-08-01",
       "endDate": "2017-08-01",
       "summary": "Mentored highscool students during a CTF challenge."
-    }
+    },
+    {
+      "organization": "UHM Grey Hats",
+      "website": "greyhats.club/",
+      "position": "Secretary",
+      "startDate": "2017",
+      "endDate": "2018",
+      "summary": "A Cyber Security club at UH Manoa.",
+      "highlights": []
+    },
+    {
+      "organization": "ACM Manoa",
+      "position": "Member",
+      "startDate": "2016",
+      "endDate": "Present",
+      "website": "acmanoa.github.io",
+      "summary": "",
+      "highlights": []
+    },
   ],
   "references": [
     {
