@@ -2,24 +2,22 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+title: Feather
+permalink: projects/feather
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2017-07-15
 labels:
   - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Python
+summary: A Chrome browser extension my team developed during the AngelHack 2017 Competition.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+Feather is a chrome browser extension that I helped create as a team during the AngelHack 2017 competition. This project helped me learn how to manage time effectively, how to design and create a browser extention, and the difficulties of creating a secure code executor. 
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+Feather was created using the [Flask](http://flask.pocoo.org/) web framework, [Moon](https://kbrsh.github.io/moon/) for the JavaScript UI library, and [Chartist](https://gionkunz.github.io/chartist-js/) to display our analytics. 
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+The Feather extension allowed its users to safely and easily edit and compile/execute code snippets they found on Github and StackOverflow. Our team of college students built a working prototype overnight and the core features were completed. During the course of creating this project, I gained experience with Python and JavaScript.
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+Source: <a href="https://github.com/Zicero/Feather"><i class="large github icon"></i>Zicero/Feather</a>
