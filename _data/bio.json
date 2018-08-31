@@ -109,7 +109,7 @@
   "volunteer": [
     {
       "organization": "UHM Grey Hats",
-      "website": "greyhats.club/",
+      "website": "https://uhmgreyhats.github.io/",
       "position": "Board Member",
       "startDate": "2017",
       "endDate": "Present",
@@ -121,7 +121,7 @@
       "position": "Member",
       "startDate": "2016",
       "endDate": "Present",
-      "website": "acmanoa.github.io",
+      "website": "https://acmanoa.github.io/",
       "summary": "",
       "highlights": []
     },
