@@ -31,11 +31,17 @@
     {
       "name": "cyber security",
       "keywords": [
+        "Exploitation",
+        "Cyber Defense",
+        "Crypto"
       ]
     },
     {
       "name": "web development",
       "keywords": [
+        "JavaScript", 
+        "React", 
+        "Angular"
       ]
     },
     {
