@@ -8,7 +8,7 @@ labels:
   - Software Engineering
   - Learning
 ---
-<img class="ui small image" src="../images/pathway.png">
+<img class="ui large image" src="../images/pathway.png">
 
 When I was little, the first interaction I had with a computer was my dad’s desktop. It was a bulky machine with a big box-like white monitor. Every once in awhile I was lucky enough to use the computer to play a Tonka game and an army man game. Ever since then I've always been fascinated what computers can do. Throughout my entire childhood, I've spent hours upon hours messing around with a Stick Pivot creator, playing what seemed like endless amounts of browser games, and watching youtube videos. At that moment in time, I thought I knew how computers worked. Boy was I wrong. 
 
