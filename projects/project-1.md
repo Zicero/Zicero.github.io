@@ -23,7 +23,7 @@ In ICS 111, this Pong project was one of my first experiences making a simple ga
 
 The Pong project helped to bring my Java knowledge to life. Although it was a very simple game, it was still very rewarding to see a few lines of code turn into something visual and enjoyable. I was able to learn a little about game design, Java program structure, and that projects like these can take up a lot of time. 
 
-Source Code: [Star Wars Pong](https://github.com/Zicero/SW-Pong).
+Source: <a href="https://github.com/Zicero/SW-Pong"><i class="large github icon"></i>Zicero/SW-Pong</a>
 
 
 
