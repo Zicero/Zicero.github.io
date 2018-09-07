@@ -25,8 +25,8 @@ A "smart" question should be precise and informative.
 
 A "smart" question should express the author's thirst for knowledge.
 
-https://stackoverflow.com/questions/32427677/i-am-new-to-javascript-please-help-me-for-javascript-validation
-example of bad [here]()
+example of bad 
+[here](https://stackoverflow.com/questions/32427677/i-am-new-to-javascript-please-help-me-for-javascript-validation)
 
 example of good [here](https://stackoverflow.com/questions/2010892/storing-objects-in-html5-localstorage)
 
