@@ -9,13 +9,7 @@ labels:
   - Software engineering
   - Getting help
 ---
-<img class="ui large image" src="../images/javascript.jpg">
-
-bad
-https://stackoverflow.com/questions/32427677/i-am-new-to-javascript-please-help-me-for-javascript-validation
-
-good
-https://stackoverflow.com/questions/2010892/storing-objects-in-html5-localstorage
+<img class="ui large image" src="../images/stackoverflow.jpg">
 
 Lets face it. Theres been several times where we as computer scientists have been stuck staring at a 
 piece of code and can't find a solution. Sometimes we just need a break to reset, but when it gets 
@@ -31,9 +25,10 @@ A "smart" question should be precise and informative.
 
 A "smart" question should express the author's thirst for knowledge.
 
-Bad
+https://stackoverflow.com/questions/32427677/i-am-new-to-javascript-please-help-me-for-javascript-validation
+example of bad [here]()
 
-Good
+example of good [here](https://stackoverflow.com/questions/2010892/storing-objects-in-html5-localstorage)
 
 
 
