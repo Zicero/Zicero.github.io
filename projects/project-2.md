@@ -12,6 +12,8 @@ labels:
 summary: A Chrome browser extension my team developed during the AngelHack 2017 Competition.
 ---
 
+<img class="ui large image" src="../images/feather.PNG">
+
 Feather is a chrome browser extension that I helped create as a team during the AngelHack 2017 competition. This project helped me learn how to manage time effectively, how to design and create a browser extention, and the difficulties of creating a secure code executor. 
 
 Feather was created using the [Flask](http://flask.pocoo.org/) web framework, [Moon](https://kbrsh.github.io/moon/) for the JavaScript UI library, and [Chartist](https://gionkunz.github.io/chartist-js/) to display our analytics. 
