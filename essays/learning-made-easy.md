@@ -8,7 +8,7 @@ labels:
   - Software Engineering
   - Coding Standards
 ---
-<img class="ui large image" src="../images/software-code.jpg"
+<img class="ui large image" src="../images/software-code.jpg">
 
 When you first pick up a spoken language, you usually start off copying the person 
 you are learning from. Usually the same thing happens when you start off learning how to code. You do 
