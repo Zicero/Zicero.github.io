@@ -1,3 +1,15 @@
+---
+layout: essay
+type: essay
+title: CSS the Easy Way
+# All dates must be YYYY-MM-DD format!
+date: 2018-10-04
+labels:
+  - Software Engineering
+  - Learning
+  - UI Frameworks
+---
+
 <img class="ui small image" src="../images/semantic.png">
 
 UI Framworks give users the power to create beautiful and clean user interfaces. The best part is that there are so many out there to choose from.
