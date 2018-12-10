@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/hoohui.png
+image: images/hoohui.PNG
 title: Ho'ohui
 permalink: projects/hoohui
 # All dates must be YYYY-MM-DD format!
