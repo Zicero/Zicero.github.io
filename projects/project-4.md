@@ -36,4 +36,4 @@ Website: <a href="https://hoohui.meteorapp.com/">Ho'ohui</a>
 
 User Guide: <a href="https://ho-ohui.github.io/">Ho'ohui User Guide</a>
 
-Source: <a href="https://github.com/Zicero/Address-Book"><i class="large github icon "></i>Zicero/Address-Book</a>
+Source: <a href="https://github.com/ho-ohui/hoohui"><i class="large github icon "></i>ho-ohui/hoohui</a>
