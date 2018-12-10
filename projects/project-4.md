@@ -29,7 +29,7 @@ and came up with a style for our website. Finally, for the last milestone we fin
 of our pages, cleaned up the site, and double checked to make sure our project was good to go. There are 
 a few things we still need to work on, but we will get to them in the near future.
 
-Ho'ohui was built by a team of 314 software engineers. I mainly worked on the landing, listing pages, and general styling of the website. During the course of the project, I was able to refine my web design skills and practice project management. In the future, I would love to work on redesigning and implementing a fully-functional Ho'ohui, but as a first go it was an all-around 
+Ho'ohui was built by a team of 314 software engineers. I mainly worked on the landing, listing pages, and general styling of the website. During the course of the project, I was able to refine my web design skills and practice project management. In the future, I would love to work on redesigning and implementing a fully-functional Ho'ohui, but as a first go it was an all-around great experience.
 
 
 Website: <a href="https://hoohui.meteorapp.com/">Ho'ohui</a>
